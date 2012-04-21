@@ -290,10 +290,10 @@ package rahil {
 				cy = cy + dy;
 			}
 		}
-		
+		/*
 		public static function openURL(url:String):void {
 			navigateToURL(new URLRequest(url));
 		}
-		
+		*/
 	}
 }
